@@ -35,3 +35,7 @@ body{
 #navbar {
 	padding:5px;
 }
+
+li {
+	margin: 10px;
+}
